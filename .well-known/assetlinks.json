@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ru.apoj.game",
+      "sha256_cert_fingerprints": [
+        "77:EF:66:7F:80:2E:AF:57:4F:35:98:D1:00:06:9F:49:16:4A:C5:9F:C1:63:BE:D3:28:0F:69:B5:70:53:36:3B"
+      ]
+    }
+  }
+]
